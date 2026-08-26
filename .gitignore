@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw_email_dataset.csv
+models/*.pkl
+results/*.png
+results/metrics.json
+results/classification_report.txt
