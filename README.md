@@ -45,7 +45,6 @@ The system uses **TF-IDF Vectorization** and **Logistic Regression** to classify
 
 ## 🧠 How It Works
 
-```text
 Email Input
     ↓
 Text Preprocessing
