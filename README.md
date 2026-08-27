@@ -57,3 +57,19 @@ Logistic Regression Model
 Prediction
     ↓
 Phishing / Legitimate Result
+
+
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home Page](Home.png)
+
+### ✅ Legitimate Email Detection
+
+![Legitimate Email Result](Legitimate%20result.png)
+
+### 🚨 Phishing Email Detection
+
+![Phishing Email Result](Phishing%20result.png)
